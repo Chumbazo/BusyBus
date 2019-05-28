@@ -123,7 +123,7 @@ ul{
 }
 
 input{
-    padding-left: 25px;
+    padding-left: 35px;
     background: #EAEBED;
     border-radius: 10px;
     height: 32px;
@@ -131,16 +131,16 @@ input{
 }
 
 .lupa{
-position:fixed;
+position:absolute;
 top:75px;
-left: 318px;
+left: 800px;
 font-size: 12px;
 }
 
 .closing_search{
-position:fixed;
+position:absolute;
 top:75px;
-left: 565px;
+right: 855px;
 font-size: 15px;
 }
 
