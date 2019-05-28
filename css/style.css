@@ -117,11 +117,21 @@ ul {
   margin-right: 5px;
 }
 
-.search {
+.search{
   display: inline-flex;
   margin-left: 35%;
   font-weight: 600;
   font-size: 17px;
+}
+
+.cancel_search{
+    display: inline-block;
+    float: left;
+    font-size: 17px;
+    font-weight: 500;
+/*    margin-left: 25px;*/
+    color:#007AFF;
+    clear: both;
 }
 
 input {
@@ -133,16 +143,16 @@ input {
 }
 
 .lupa {
-  position: absolute;
+   position: absolute;
   top: 75px;
-  left: 800px;
+  left: 800px; 
   font-size: 12px;
 }
 
 .closing_search {
-  position: absolute;
+   position: absolute;
   top: 75px;
-  right: 855px;
+  right: 855px; 
   font-size: 15px;
 }
 
