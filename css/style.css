@@ -149,3 +149,7 @@ input {
 .search-bar {
   padding: 5px 0 5px 15px;
 }
+
+.b_hover:hover {
+  cursor: pointer;
+}
