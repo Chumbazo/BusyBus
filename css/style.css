@@ -30,13 +30,13 @@ p {
   background-color: #f5f5f5;
 }
 
-.first,
+/* .first,
 .second,
 .third,
 .fourth,
 .fifth {
-  /*    margin: 5%;*/
-}
+  /*    margin: 5%;
+}*/
 
 .arrow {
   float: right;
