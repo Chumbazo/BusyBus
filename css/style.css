@@ -144,20 +144,23 @@ input {
 
 .lupa {
    position: absolute;
-  top: 75px;
-  left: 800px; 
+  top: 15px;
+  left: 25px;
+    color:#8E8E93;
   font-size: 12px;
 }
 
 .closing_search {
    position: absolute;
-  top: 75px;
-  right: 855px; 
+  top: 15px;
+  right: 85px; 
   font-size: 15px;
+color:#8E8E93;
 }
 
 .search-bar {
-  padding: 5px 0 5px 15px;
+    position: relative;
+    padding: 5px 0 5px 15px;
 }
 
 .b_hover:hover {
