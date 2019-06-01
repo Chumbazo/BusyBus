@@ -23,7 +23,8 @@ body {
 }
 
 .space-me{
-  padding: 0px 10px 5px 0px;
+  padding: 5px 10px 5px 5px;
+  margin-bottom: 10px;
   height: 40px;
   clear: both;
 
@@ -31,7 +32,6 @@ body {
 
 .bar {
   margin-top: 8px;
-
 }
 
 .route {
